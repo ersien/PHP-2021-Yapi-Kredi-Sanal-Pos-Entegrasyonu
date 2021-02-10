@@ -1,5 +1,5 @@
-# PHP-2021-Yapi-Kredi-Sanal-Pos-Entegrasyonu
-ersinbardakci@yahoo.com
+# PHP-2021-POSNET Yapi-Kredi-Sanal-Pos-Entegrasyonu
+ersinbardakci@yahoo.com (entegrasyon işleri için)
 
 
 
